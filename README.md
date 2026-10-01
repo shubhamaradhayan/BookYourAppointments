@@ -1,12 +1,12 @@
-# BookFlow Frontend
+# BookYourAppointments Frontend
 
-Clean, human-readable React + Vite frontend for the BookFlow appointment SaaS.
+Clean, human-readable React + Vite frontend for the BookYourAppointments SaaS.
 
 ## Requirements
 
 - Node.js 18+
 - npm
-- BookFlow Core PHP backend running through XAMPP/Apache
+- BookYourAppointments Core PHP backend running through XAMPP/Apache
 
 ## Install
 
